@@ -324,6 +324,6 @@ De-dollarisation of reserves is real. De-dollarisation of trade invoicing is muc
 
 st.markdown("""
 <div class='footer-bar'>
-Built by Anuja A. Gokhale · MA Applied Economics, NUS (Merit Scholar) · anujagokhale1604@gmail.com · Data from IMF COFER, World Gold Council, BIS, FRED · August 2026
+Built by Anuja A. Gokhale · MA Applied Economics, NUS (Merit Scholar) · anujagokhale1604@gmail.com · Data from IMF COFER, World Gold Council, BIS, FRED · 
 </div>
 """, unsafe_allow_html=True)
