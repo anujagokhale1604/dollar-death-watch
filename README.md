@@ -78,4 +78,4 @@ Anuja A. Gokhale · anujagokhale1604@gmail.com · [ssrn.com/author=10973290](htt
 
 ---
 
-*Built for research and educational purposes. Data updated manually from public sources. Last updated August 2026.*
+*Built for research and educational purposes. Data updated manually from public sources.*
