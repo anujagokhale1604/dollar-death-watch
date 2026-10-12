@@ -3,8 +3,8 @@ import pandas as pd
 import plotly.graph_objects as go
 
 st.set_page_config(
-    page_title="Dollar Death Watch",
-    page_icon="💵",
+    page_title="The Multipolar Money Monitor",
+    page_icon="🌐",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
@@ -193,7 +193,7 @@ dxy_df = pd.DataFrame(dxy_data)
 st.markdown("""
 <div class='masthead'>
   <div class='masthead-eyebrow'>GOKHALE MACRO RESEARCH · TRACKER · AUGUST 2026</div>
-  <div class='masthead-title'>💵 Dollar Death Watch</div>
+  <div class='masthead-title'>🌐 The Multipolar Money Monitor</div>
   <div class='masthead-sub'>De-dollarisation signals across global reserves, gold, trade settlement, and currency markets</div>
 </div>
 """, unsafe_allow_html=True)
